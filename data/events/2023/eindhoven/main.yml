@@ -302,7 +302,7 @@ program:
     start_time: "17:10"
     end_time: "22:00"
 
-  # Day two
+  # Day two 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2023-10-12T00:00:00+02:00
